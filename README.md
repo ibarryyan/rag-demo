@@ -1,5 +1,9 @@
 # RAG Demo
 
+相关博客：
+- 《万字长文详解向量数据库与RAG》https://mp.weixin.qq.com/s/QmfFh9-
+- 《再谈RAG与向量存储引擎》https://mp.weixin.qq.com/s/gp8Jop-MOMNo1W3i9eop6Q
+
 ## 🎯 项目简介
 
 一个使用Go语言构建的RAG（检索增强生成）系统对比演示，通过对比纯DeepSeek回答与RAG增强回答，直观展示向量数据库如何解决大语言模型的知识过时和幻觉问题。
