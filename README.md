@@ -1,8 +1,8 @@
 # RAG Demo
 
 相关博客：
-- 《万字长文详解向量数据库与RAG》https://mp.weixin.qq.com/s/QmfFh9-
-- 《再谈RAG与向量存储引擎》https://mp.weixin.qq.com/s/gp8Jop-MOMNo1W3i9eop6Q
+- 《万字长文详解向量数据库与RAG》 https://mp.weixin.qq.com/s/QmfFh9-
+- 《再谈RAG与向量存储引擎》 https://mp.weixin.qq.com/s/gp8Jop-MOMNo1W3i9eop6Q
 
 ## 🎯 项目简介
 
